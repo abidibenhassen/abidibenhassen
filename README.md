@@ -4,7 +4,7 @@ Hi, I'm Abidi! I'm a web developer & a software engineering student. feel free t
 
 ## My Projects
 - 🚀 [Portfolio Website](https://spaceport-topaz.vercel.app)
-##Latest project:
+- Latest project:
 - 🍕 [Samiros Fast-Food Website](https://samiros.vercel.app)
 
 ## Technologies I Love
