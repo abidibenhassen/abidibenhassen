@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**abidibenhassen/abidibenhassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Abidi! I'm a web developer & a software engineering student. feel free to connect with me!
 
-Here are some ideas to get you started:
+## My Projects
+- 🚀 [Portfolio Website](https://spaceport-topaz.vercel.app)
+  #Latest project:
+- 🍕 [Samiros Fast-Food Website](https://samiros.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Love
+- Next.js, TypeScript
+- Tailwind CSS, Framer Motion
+
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/abidi-ben-hassen/)
