@@ -5,7 +5,7 @@ Hi, I'm Abidi! I'm a web developer & a software engineering student. feel free t
 ## My Projects
 - 🚀 [Portfolio Website](https://abidibenhassen.engineer)
 - Latest project:
--  [BrightSEO]
+-  [BrightSEO](https://www.dropbox.com/scl/fi/hs3fg76xv8bgqts72alqu/CLIENT2.mp4?rlkey=86r9uf8r6cyzt8he0bw46k6bm&st=inljlr4h&dl=0)
 
 ## Technologies I Love
 - Next.js, TypeScript
