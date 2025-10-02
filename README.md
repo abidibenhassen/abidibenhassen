@@ -3,9 +3,9 @@
 Hi, I'm Abidi! I'm a web developer & a software engineering student. feel free to connect with me!
 
 ## My Projects
-- 🚀 [Portfolio Website](https://spaceport-topaz.vercel.app)
+- 🚀 [Portfolio Website](https://abidibenhassen.engineer)
 - Latest project:
-- 🍕 [Samiros Fast-Food Website](https://samiros.vercel.app)
+-  [BrightSEO]
 
 ## Technologies I Love
 - Next.js, TypeScript
